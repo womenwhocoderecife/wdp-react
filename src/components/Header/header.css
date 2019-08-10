@@ -1,0 +1,24 @@
+.header {
+  display: flex;
+  align-items: center;
+}
+
+.header__img {
+  object-fit: contain;
+  width: 100px;
+  border-radius: 3px;
+  margin-right: 20px;
+}
+
+.header__name {
+  font-size: 18px;
+  font-weight: 400;
+  margin: 0;
+}
+
+.header__description {
+  font-size: 12px;
+  line-height: 1.25;
+  margin: 4px 0;
+  color: #666;
+}
