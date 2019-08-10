@@ -1,12 +1,12 @@
-import React from "react";
+import React from 'react';
 
 const Star = () => (
   <svg
     aria-label="star"
-    height="16"
+    height="14"
     viewBox="0 0 14 16"
     version="1.1"
-    width="14"
+    width="12"
     role="img"
   >
     <path

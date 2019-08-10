@@ -1,12 +1,12 @@
-import React from "react";
+import React from 'react';
 
 const Fork = () => (
   <svg
     aria-label="fork"
-    height="16"
+    height="14"
     viewBox="0 0 10 16"
     version="1.1"
-    width="10"
+    width="8"
     role="img"
   >
     <path
