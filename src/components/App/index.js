@@ -1,12 +1,12 @@
-import React from "react";
-import Repositories from "../Repositories";
+import React from 'react';
+import Repositories from '../Repositories';
 
-function App() {
-  return (
-    <div>
-      <Repositories />
-    </div>
-  );
-}
+import './app.css';
+
+const App = () => (
+  <main className="container">
+    <Repositories />
+  </main>
+);
 
 export default App;
